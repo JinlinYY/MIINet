@@ -30,7 +30,7 @@ def main():
     image_layer3_tensor = torch.tensor(image_layer3, dtype=torch.float32)
 
     _, gnn_layer1, gnn_layer2, gnn_layer3, _ = gnn_extract_excel_features(
-        '/tmp/pycharm_project_403/excel_data/datasets-internal-del-name-3.xlsx', graph_method='cluster', n_clusters=5
+        '/tmp/pycharm_project_403/excel_data/datasets-internal-del-name-3.xlsx'
     )
 
     gnn_layer1_tensor = torch.tensor(gnn_layer1, dtype=torch.float32)
