@@ -1,6 +1,6 @@
 # A Multimodal Information-Interconnected Network for Medication Guidance in HR+/HER2- Breast Cancer Treatment
 
-![image]([[https://github.com/JinlinYY/GVMNN/blob/main/png/method.png](https://github.com/JinlinYY/MIINet/blob/main/Method.png)])
+![image](https://github.com/JinlinYY/MIINet/blob/main/Method.png)
 
 ## How to use
 
